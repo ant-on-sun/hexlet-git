@@ -1,0 +1,15 @@
+#ignore file in any project directory
+access.log
+
+#ignore directory in any project directory
+node_modules/
+
+#ignore directory in root working directory
+/coverage/
+
+#ignore all files in directory db with expantion sqlite3
+/db/*.sqlite3
+
+#ignore all files .txt in directory doc/ 
+#in all nesting levels
+doc/**/*.txt
