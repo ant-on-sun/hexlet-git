@@ -1,5 +1,6 @@
 #ignore file in any project directory
 access.log
+INFO.md
 
 #ignore directory in any project directory
 node_modules/
